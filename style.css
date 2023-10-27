@@ -6,16 +6,16 @@
 }
 
 body{
-    background-image: linear-gradient(to right, #fc5c7d, #6a82fb);
+    background-image: linear-gradient(to right, #f1607d, #6f84f0);
 }
 
 .card{
     width: 90%;
-    max-width: 470px;
-    background-image: linear-gradient(to right, #0f0c29, #302b63, #24243e);
+    max-width: 480px;
+    background-image: linear-gradient(to right, #141133, #36316b, #303050);
     color:greenyellow;
     margin: 100px auto 0;
-    border-radius: 60px;
+    border-radius: 70px;
     padding: 40px 35px;
     text-align: center;
 }
@@ -29,8 +29,8 @@ body{
 .search input{
     border: 0;
     outline: 0;
-    background: white;
-    color: black;
+    background: rgb(255, 255, 255);
+    color: rgb(8, 8, 8);
     padding: 10px 25px;
     height: 60px;
     border-radius: 30px;
